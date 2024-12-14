@@ -1,0 +1,40 @@
+/* fonts.css */
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("./fonts/Montserrat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("./fonts/Montserrat-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat-Black";
+  src: url("./fonts/Montserrat-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: url("./fonts/Montserrat-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "WorkSans-Regular";
+  src: url("./fonts/WorkSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "WorkSans-Bold";
+  src: url("./fonts/WorkSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "MoonDance-Regular";
+  src: url("./fonts/MoonDance-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Derivia-Regular";
+  src: url("./fonts/Derivia-Regular.otf") format("truetype");
+}
